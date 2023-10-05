@@ -51,4 +51,12 @@ Este archivo contiene una serie de funciones para realizar operaciones vectorial
 ![WhatsApp Image 2023-10-05 at 8 50 43 AM](https://github.com/Jaco0bo/Experimento_doble_rendija/assets/142515732/370bf24c-92a3-42fa-b32d-659542b721f7)
 
 ## Explicación
+### Experimento Clásico de la Doble Rendija:
+En el experimento clásico de la doble rendija, se tiene una fuente de partículas (por ejemplo, partículas de luz o canicas) que se disparan hacia una barrera con dos rendijas. Detrás de la barrera, hay una pantalla receptora que registra las partículas que llegan.
+
+- Una Rendija Abierta: En un primer experimento, solo se abre una de las dos rendijas, mientras que la otra permanece cerrada. Las partículas se disparan hacia la barrera y pasan a través de la rendija abierta. En la pantalla receptora, se forma un patrón de impacto que corresponde a la rendija abierta.
+
+- Otra Rendija Abierta: En un segundo experimento, se cierra la rendija que estaba abierta previamente y se abre la otra rendija. Ahora, las partículas pasan a través de la segunda rendija y crean un patrón de impacto en la pantalla receptora que corresponde a la segunda rendija.
+
+- Ambas Rendijas Abiertas: En el tercer experimento, ambas rendijas están abiertas al mismo tiempo. Aquí es donde ocurre algo interesante. En lugar de ver la suma de los patrones de impacto de los dos experimentos anteriores, se observa un patrón de interferencia, similar a las crestas y valles en una onda. Las partículas parecen comportarse como ondas y muestran una interferencia constructiva y destructiva en la pantalla receptora, lo que resulta en un patrón de franjas alternas brillantes y oscuras.
 
