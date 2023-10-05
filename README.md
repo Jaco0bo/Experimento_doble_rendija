@@ -1,3 +1,5 @@
+#### Andrés Sepúlveda y Jesus Jauregui
+
 # Experimento Doble Rendija
 
 Este es un proyecto que contiene una serie de funciones y archivos relacionados con la simulación de experimentos cuánticos y clásicos, así como operaciones matriciales y vectoriales complejas en Python. A continuación, se describen los elementos clave de este proyecto y cómo utilizarlos.
