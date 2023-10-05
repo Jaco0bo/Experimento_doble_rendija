@@ -41,4 +41,6 @@ Este archivo contiene una serie de funciones para realizar operaciones vectorial
 5. Tener las bibliotecas `numpy` y `matplotlib` instaladas en tu entorno de Python, ya que estas funciones las utilizan.
 
 6. Personaliza los parámetros y matrices para simular diferentes experimentos cuánticos y clásicos.
+   
+![image](https://github.com/Jaco0bo/Experimento_doble_rendija/assets/142515732/105c051e-2565-4cb8-be72-a2ab74e3f1e7)
 
